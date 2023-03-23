@@ -4,7 +4,11 @@ title: Current Yank of yEAh Games financial rates
 date: 2022-07-18 20:46
 author: yeahgamesdevs
 comments: true
-categories: [Docs, featured, Finance, finance-docs, Yank, yollars, Yollars-related]
+categories: [Yank, Finance, Docs,]
+tags: 
+- docs 
+- yollars 
+- rates
 background-image: https://yeaharchives.files.wordpress.com/2022/07/untitled-presentation-4.png?w=930&h=450&crop=1
 ---
 <!-- wp:paragraph -->
