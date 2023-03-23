@@ -2,9 +2,11 @@
     <div class="navbar-container">
       <a href="//yankarchive.yeahgames.net" title="{{site.title }}" class="navbar-logo"> <img src="//cdn.yeahgames.net/img/branding/logos/text/red.png" alt="{{ site.title }}"> </a>
         <div class="navbar-menu">
-            {% for link in site.links %}             
-            <a href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">{{ link.name }}</a>
-                {% endfor %}
+            <a href="/">Home</a>
+            <a href="//yank.yeahgames.net">Yank</a>
+            <a href="//yeahgames.net">Network</a>
+            <a href="//library.yeahgames.net">Library</a>
+
           </div>
         <div class="navbar-search" onclick="">
             <span class="icon-search"></span>
