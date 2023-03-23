@@ -1,0 +1,26 @@
+<header id="header" class="header bg-white">
+    <div class="navbar-container">
+      <a href="//yankarchive.yeahgames.net" title="{{site.title }}" class="navbar-logo"> <img src="//cdn.yeahgames.net/img/branding/logos/text/red.png" alt="{{ site.title }}"> </a>
+        <div class="navbar-menu">
+            {% for link in site.links %}             
+            <a href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">{{ link.name }}</a>
+                {% endfor %}
+          </div>
+        <div class="navbar-search" onclick="">
+            <span class="icon-search"></span>
+            <form id="cb-search-btn" role="search">
+         <span class="search-box">
+         <input type="text" class="input" id="cb-search-content" required="true" placeholder="标题 标签..." maxlength="30" autocomplete="off">
+        </span>
+            </form>
+        </div>
+        <div class="navbar-mobile-menu" onclick="">
+            <span class="icon-menu cross"><span class="middle"></span></span>
+            <ul>
+               {% for link in site.links %}           
+                <li><a href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">{{ link.name }}</a></li>
+                 {% endfor %}
+            </ul>
+        </div>
+    </div>
+</header>
