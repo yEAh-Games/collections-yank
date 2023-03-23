@@ -5,6 +5,7 @@ date: 2022-07-18 20:46
 author: yeahgamesdevs
 comments: true
 categories: [Yank, Finance, Docs,]
+category: Docs
 tags: 
 - docs 
 - yollars 
