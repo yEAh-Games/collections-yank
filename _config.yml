@@ -1,0 +1,36 @@
+# ----------- CONFIGURABLE START -----------
+title:            "Yank • Library / yEAh Network"
+description:      "The official Yank of yEAh Games library archive collection. Learn about The Yank, how to get started, and view the latest updates on all stuff finance-related."
+url:              https://yankarchive.yeahgames.net # 域名
+signoff:          "yEAh Games" # Your name
+share:            true 
+# 分页
+paginate: 15
+paginate_path: "/page:num"
+gems: [jekyll-paginate]
+links:
+  - name:         首页
+    url:          /
+    external:     false
+  - name:         书籍
+    url:          /book
+    external:     false
+  - name:         旅游
+    url:          /road
+    external:     false
+  - name:         归档
+    url:          /archives
+    external:     false
+  - name:         标签
+    url:          /tags
+    external:     false
+  - name:         关于
+    url:          /about
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+#permalink:        /:categories/:title.html
+permalink: /item/:title #/item/ is the default collection url, using the standardized file name link (SFNL) that works across the network. collections are free to implement their own permalink system, although this is the default 
+defaults:
+  - values:
+      layout: "default"
