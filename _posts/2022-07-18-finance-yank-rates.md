@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: FINANCE / Yank rates
 date: 2022-07-18 20:46
 author: yeahgamesdevs
