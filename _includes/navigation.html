@@ -53,14 +53,22 @@
             href="https://x.yeahgames.net/inquiry/library/quotes?subject='null'&src='header'"
             >Contact/inquiry</a
           >
-          <div class="navbar-search" onclick="">
-            <span class="icon-search"></span>
-            <form id="cb-search-btn" role="search">
-         <span class="search-box">
-         <input type="text" class="input" id="cb-search-content" required="true" placeholder="Search this library collection..." maxlength="30" autocomplete="off">
-        </span>
-            </form>
-        </div>
+          <div id="search-container">
+            <input type="text" id="search-input" placeholder="search...">
+            <ul id="results-container"></ul>
+            </div>
+            
+            <!-- Script pointing to search-script.js -->
+            <script src="/search.js" type="text/javascript"></script>
+            
+            <!-- Configuration -->
+            <script>
+            SimpleJekyllSearch({
+              searchInput: document.getElementById('search-input'),
+              resultsContainer: document.getElementById('results-container'),
+              json: '/search.json'
+            })
+            </script>
         </div>
       </li>
     </ul>
