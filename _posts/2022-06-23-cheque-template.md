@@ -5,6 +5,7 @@ date: 2022-06-23 21:49
 author: yeahgamesdevs
 comments: true
 categories: [cheque, download, Finance, official, Official documents, printable, template, Yank, yollars, Yollars-related]
+image: /archive/img/item/cheque-template/featured.png
 C: Finance
 ---
 <!-- wp:paragraph -->

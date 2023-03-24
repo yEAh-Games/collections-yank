@@ -10,7 +10,7 @@ tags:
 - docs 
 - yollars 
 - rates
-image: https://yeaharchives.files.wordpress.com/2022/07/untitled-presentation-4.png?w=930&h=450&crop=1
+image: /archive/img/item/yank-rates/featured.png
 ---
 <!-- wp:paragraph -->
 <p>These are the official rates for various finance-related yEAh Games features. Some vary over time; some will stay the same. Check the bot command <code>yeahrates</code> for live updates.</p>

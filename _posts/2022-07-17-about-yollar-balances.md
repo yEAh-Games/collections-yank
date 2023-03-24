@@ -1,10 +1,12 @@
 ---
 layout: post
-title: YANK ― Yollar balances / About/FAQs
+title: About/FAQs﹕Yollar balances
 date: 2022-07-17 09:39
 author: yeahgamesdevs
 comments: true
-categories: [about, About/FAQs, balances, Docs, faqs, featured, Finance, finance-docs, Yank, yollars, Yollars-related]
+categories: [Yank, Docs, About]
+tags: [about, balances, faqs, finance-docs, yollars, yollars-related]
+image: /archive/img/item/about-yollar-balances/featured.png
 ---
 <!-- wp:paragraph -->
 <p><em>Note: This doc is only about the yollar-balance part of Yank accounts. It does not include loans, stocks, or other stuff. See the <a href="https://yeaharchives.wordpress.com/category/docs/">docs</a> page for more info.</em></p>
