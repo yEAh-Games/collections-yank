@@ -5,6 +5,7 @@ date: 2022-04-09 08:50
 author: yeahgamesdevs
 comments: true
 categories: [Daily reports, Finance, investing, news, reports, rg, RG-YGSE, Stocks]
+image: /archive/img/reports/daily/rg/05-04-2022.png
 ---
 <!-- wp:paragraph -->
 <p>This is the daily report for <code>Random Guy TCG</code> <code>(RG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Tuesday, the 5th of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>

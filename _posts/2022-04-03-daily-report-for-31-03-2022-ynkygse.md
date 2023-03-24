@@ -5,6 +5,7 @@ date: 2022-04-03 19:52
 author: yeahgamesdevs
 comments: true
 categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yank, ynk, YNK-YGSE, yollars, yoney]
+image: /archive/img/reports/daily/ynk/31-03-2022.png
 ---
 <!-- wp:paragraph -->
 <p>This is the daily report for <code>The Yank of yEAh Games</code> <code>(YNK:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Thursday, the 31st of March, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
