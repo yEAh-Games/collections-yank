@@ -12,7 +12,7 @@ tags:
 - rates
 image: /archive/img/item/yank-rates/featured.png
 redirect_from:
-  - /item/:title/
+  - /item/yank-rates/
 permalink: /docs/live/rates
 ---
 <!-- wp:paragraph -->
