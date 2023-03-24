@@ -12,6 +12,7 @@ tags:
 - rates
 image: /archive/img/item/yank-rates/featured.png
 redirect_from: /item/:title
+permalink: /docs/live/rates
 ---
 <!-- wp:paragraph -->
 <p>These are the official rates for various finance-related yEAh Games features. Some vary over time; some will stay the same. Check the bot command <code>yeahrates</code> for live updates.</p>

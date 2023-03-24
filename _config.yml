@@ -22,7 +22,8 @@ built-by: The yEAh Games Corporation, LLC.
 
 collection: # Details about your collection
    name: Yank Archive
-   link: '//yankarchive.yeahgames.net' 
+   shortname: Yank # The common, short name of your collection (1 word only)
+   link: '//yankarchive.yeahgames.net' # The link to your collection's website
 
 owner: # Details about your collection's owner(s)
    name: The Yank of yEAh Games
