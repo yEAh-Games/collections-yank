@@ -11,7 +11,8 @@ tags:
 - yollars 
 - rates
 image: /archive/img/item/yank-rates/featured.png
-redirect_from: /item/:title
+redirect_from:
+  - /item/:title/
 permalink: /docs/live/rates
 ---
 <!-- wp:paragraph -->
