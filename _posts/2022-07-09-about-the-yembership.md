@@ -11,12 +11,6 @@ image: /archive/img/item/about-the-yembership/featured.png
 permalink: /docs/about/yembership/overview
 ---
 
-![Yembership logo](https://yeaharchives.files.wordpress.com/2022/07/yembership_ad-2.png?w=930&h=450&crop=1)
-
-<!-- wp:paragraph {"textColor":"vivid-red"} -->
-<p class="has-vivid-red-color has-text-color"><strong>This is an advertisement/sponsored content paid for by <code>The yEAh Games Corporation, LLC.</code>.</strong></p>
-<!-- /wp:paragraph -->
-
 <!-- wp:paragraph -->
 <p>The Yembership is an exclusive membership program for yEAh Games that can give you exclusive items, awards, perks, roles and more. Read this post for more information.</p>
 <!-- /wp:paragraph -->
