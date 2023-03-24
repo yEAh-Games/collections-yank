@@ -5,7 +5,7 @@ date: 2022-04-03 17:16
 author: yeahgamesdevs
 comments: true
 categories: []
-/archive/img/item/ygse-symbols/featured.png
+image: /archive/img/item/ygse-symbols/featured.png
 ---
 <!-- wp:paragraph -->
 <p>Here are a list of symbols (e.g., YG) on the yEAh Games stock market.<br>Click on one to find stock articles involving that symbol.<br> </p>

@@ -7,7 +7,7 @@ comments: true
 categories: [Finance, Yembership]
 tags: [bonuses, exclusive offer, membership, official, perks, special deals, yeah games, yollars, advertisement, ads]
 c: Yank
-/archive/img/item/about-the-yembership/featured.png
+image: /archive/img/item/about-the-yembership/featured.png
 ---
 
 ![Yembership logo](https://yeaharchives.files.wordpress.com/2022/07/yembership_ad-2.png?w=930&h=450&crop=1)
