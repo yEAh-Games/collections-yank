@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Daily report for 05/04/2022 / BOTS-YGSE
-date: 2022-04-09 09:04
+date: 2022-04-05 09:04
 author: yeahgamesdevs
 comments: true
 categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, news, reports, Stocks]
 image: /archive/img/reports/daily/bots/05-04-2022.png
+permalink: /stocks/reports/daily/bots/2022/04/05
+redirect_from:
+  - /item/daily-report-for-05-04-2022-botsygse
 ---
 <!-- wp:paragraph -->
 <p>This is the daily report for <code>yEAh Games' BOTS</code> <code>(BOTS:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Tuesday, the 5th of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>

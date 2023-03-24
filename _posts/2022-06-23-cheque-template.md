@@ -1,12 +1,17 @@
 ---
 layout: post
-title: YANK / Official printable yollar-transfer cheque
+title: Downloadable Yollars cheque
 date: 2022-06-23 21:49
 author: yeahgamesdevs
 comments: true
-categories: [cheque, download, Finance, official, Official documents, printable, template, Yank, yollars, Yollars-related]
+categories: [Yank, Official documents]
+tags: [cheque, download, official, printable, template, yollars, yollars-related]
 image: /archive/img/item/cheque-template/featured.png
-C: Finance
+C: Yank
+permalink: /documents/templates/cheques
+redirect_from:
+  - /item/cheque-template
+  - /documents/templates/cheque
 ---
 <!-- wp:paragraph -->
 <p>The official downloadable &amp; printable template for <em>The Yank of yEAh Games</em> cheques.</p>
@@ -44,12 +49,12 @@ C: Finance
 <p><strong>DOWNLOAD &amp; PRINT:</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:file {"id":616,"href":"https://yeaharchives.files.wordpress.com/2022/06/the_yank_of_yeah_gamese28094official_cheque.pdf","displayPreview":true} -->
-<div class="wp-block-file"><object class="wp-block-file__embed" data="https://yeaharchives.files.wordpress.com/2022/06/the_yank_of_yeah_gamese28094official_cheque.pdf" type="application/pdf" style="width:100%;height:600px;" aria-label="Embed of Official cheque format: Download."></object><a id="wp-block-file--media-8fd2d40d-74e4-4b9a-8e4e-4bb84df514c7" href="https://yeaharchives.files.wordpress.com/2022/06/the_yank_of_yeah_gamese28094official_cheque.pdf" target="_blank" rel="noreferrer noopener">Official cheque format: Download</a><a href="https://yeaharchives.files.wordpress.com/2022/06/the_yank_of_yeah_gamese28094official_cheque.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-8fd2d40d-74e4-4b9a-8e4e-4bb84df514c7">Download</a></div>
+<!-- wp:file {"id":616,"href":"https://yankarchive.yeahgames.net/archive/pdf/item/cheque-template/template.pdf","displayPreview":true} -->
+<div class="wp-block-file"><object class="wp-block-file__embed" data="https://yankarchive.yeahgames.net/archive/pdf/item/cheque-template/template.pdf" type="application/pdf" style="width:100%;height:600px;" aria-label="Embed of Official cheque format: Download."></object><a id="wp-block-file--media-8fd2d40d-74e4-4b9a-8e4e-4bb84df514c7" href="https://yankarchive.yeahgames.net/archive/pdf/item/cheque-template/template.pdf" target="_blank" rel="noreferrer noopener">Official cheque format: Download</a><a href="https://yankarchive.yeahgames.net/archive/pdf/item/cheque-template/template.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-8fd2d40d-74e4-4b9a-8e4e-4bb84df514c7">Download</a></div>
 <!-- /wp:file -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><em>Not working? Click this link: <a href="https://yeaharchives.files.wordpress.com/2022/06/the_yank_of_yeah_gamese28094official_cheque.pdf">https://yeaharchives.files.wordpress.com/2022/06/the_yank_of_yeah_gamese28094official_cheque.pdf</a></em></p>
+<p class="has-small-font-size"><em>Not working? Click this link: <a href="https://yankarchive.yeahgames.net/archive/pdf/item/cheque-template/template.pdf">https://yankarchive.yeahgames.net/archive/pdf/item/cheque-template/template.pdf</a></em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
