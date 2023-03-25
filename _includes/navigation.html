@@ -2,7 +2,7 @@
 
 <nav class="container navbar navbar-expand-lg navbar-light bg-transparent">
   <a class="navbar-brand" href={{"/" | relative_url}}>{% if site.logo %}<img style="max-width
-  :25%;" src="{{site.logo}}"></a>{% elseif %}Collection: {{site.collection.shortname}}{% endif %}
+  :25%;" src="{{site.logo}}"></a>{% elsif %}Collection: {{site.collection.shortname}}{% endif %}
   <button
     class="navbar-toggler"
     type="button"
