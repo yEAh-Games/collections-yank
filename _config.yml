@@ -15,7 +15,7 @@ description: >
 #baseurl: "/" # the subpath of your site, e.g. /archive (don't uncomment if served directly from base protocol)
 url: "https://yankarchive.yeahgames.net" # the base hostname & protocol for your site
 
-#sidebar
+logo: https://cdn.yeahgames.net/img/yank/logos/red.png # Uncomment if you want to supply a logo for the navbar, as supposed to 'Collection: CollectionName'
 default-image: https://cdn.yeahgames.net/img/branding/logos/text/red.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 built-by: The yEAh Games Corporation, LLC. # For robot crawling & indexing
