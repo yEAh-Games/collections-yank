@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Daily report for 02/04/2022 / BOTS-YGSE
-date: 2022-04-04 07:33
+title: Daily report for 03/04/2022 / BOTS-YGSE
+date: 2022-04-03 07:27
 author: yeahgamesdevs
 comments: true
 categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, news, reports, Stocks]
-image: /archive/img/reports/daily/bots/02-04-2022.png
-permalink: /stocks/reports/daily/bots/2022/04/02
+image: /archive/img/reports/daily/bots/03-04-2022.png
+permalink: /stocks/reports/daily/bots/2022/04/03
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/bots/2022/04/03
 redirect_from:
-  - /item/daily-report-for-02-04-2022-botsygse
+  - /item/daily-report-for-03-04-2022-botsygse
 ---
 <!-- wp:paragraph -->
-<p>This is the daily report for <code>yEAh Games' BOTS</code> <code>(BOTS:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Saturday, the 1st of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
+<p>This is the daily report for <code>yEAh Games' BOTS</code> <code>(BOTS:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Sunday, the 3rd of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -28,7 +29,7 @@ redirect_from:
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"vivid-cyan-blue","style":{"border":{"radius":"18px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/959266749998583828" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/960360935611072552" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -41,15 +42,15 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Individual share price: </strong><code>¥ 631.91833</code></p>
+<p><strong>Individual share price: </strong><code>¥ 130.316743</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong><strong>Price change since previous close:</strong></strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"textColor":"vivid-green-cyan"} -->
-<p class="has-vivid-green-cyan-color has-text-color"><code>▲ today</code><br><code>+574.459674 (+999.77917%)</code></p>
+<!-- wp:paragraph {"textColor":"vivid-red"} -->
+<p class="has-vivid-red-color has-text-color">▼<code> today</code><br><code>—501.601587 (—79.3775973%)</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -57,7 +58,7 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Company valuation</strong>:<br><code>¥ 316591.083</code><br><code>501</code> shares sold</p>
+<p><strong>Company valuation</strong>:<br><code>¥ 65288.6882</code><br><code>501</code> shares sold</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -69,7 +70,11 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Notes:</strong><br>— Welcome to our newest stock, BOTS:YGSE! <br>— Week close is at 0 because no data was recorded. <br>— This stock is not for a channel, but rather for all the bots in the server. This is part of a larger experiment to incorporate other ideas in to the YGSE. <br>— You may want to look at #annoucements because there are some changes that may affect stock prices. — Dividends have been released. Check your accounts!</p>
+<p><strong>Notes:</strong><br>—</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>— Welcome to our newest stock, BOTS:YGSE! <br>— Week close is at 0 because no data was recorded. <br>— This stock is not for a channel, but rather for all the bots in the server. This is part of a larger experiment to incorporate other ideas in to the YGSE. <br>— You may want to look at #annoucements because there are some changes that may affect stock prices. <br>— Yesterday's price is at 0 because I ran out of time to calculate it today after my power outage yesterday. Check the archives tomorrow for the updated graph. <br>— Today is the week close. Check the next report for information. <br>— Dividends have been released. Check your accounts!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -77,7 +82,7 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Raw data:</strong><br>Percent of messages: <code>32.9411765%</code><br>Number of messages: <code>56</code><br>Number of shares: <code>42467</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
+<p><strong>Raw data:</strong><br>Percent of messages: <code>6.21468927%</code><br>Number of messages: <code>11</code><br>Number of shares: <code>42467</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -92,8 +97,8 @@ redirect_from:
 <p><strong>All-time graph (as of time of report)</strong>:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":173,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-24.png?w=600" alt="" class="wp-image-173" /></figure>
+<!-- wp:image {"id":226,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-39.png?w=600" alt="" class="wp-image-226" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

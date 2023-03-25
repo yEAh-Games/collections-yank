@@ -8,6 +8,7 @@ categories: [Yank, Docs, About]
 tags: [about, balances, faqs, finance-docs, yollars, yollars-related]
 image: /archive/img/item/about-yollar-balances/featured.png
 permalink: /docs/about/accounts/balances
+link: https://yankarchive.yeahgames.net/docs/about/accounts/balances
 redirect_from:
   - /item/about-yollar-balances/
 ---

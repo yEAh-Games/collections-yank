@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Daily report for 05/04/2022 / YG-YGSE
-date: 2022-04-05 08:44
+title: Daily report for 03/04/2022 / YG-YGSE
+date: 2022-04-04 21:27
 author: yeahgamesdevs
 comments: true
 categories: [Daily reports, Finance, investing, news, reports, Stocks, yg, YG-YGSE]
-image: /archive/img/reports/daily/yg/05-04-2022.png
-permalink: /stocks/reports/daily/yg/2022/04/05
+image: /archive/img/reports/daily/yg/03-04-2022.png
+permalink: /stocks/reports/daily/yg/2022/04/03
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/yg/2022/04/03
 redirect_from:
-  - /item/daily-report-for-05-04-2022-ygygse
+  - /item/daily-report-for-03-04-2022-ygygse
 ---
 <!-- wp:paragraph -->
-<p>This is the daily report for <code>yEAh Games</code> <code>(YG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Tuesday, the 5th of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
+<p>This is the daily report for <code>yEAh Games</code> <code>(YG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Sunday, the 3rd of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -28,7 +29,7 @@ redirect_from:
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"vivid-cyan-blue","style":{"border":{"radius":"18px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/961077194145267742" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/960357637164257291" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -41,7 +42,7 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Individual share price: </strong><code>¥ 9391.30435</code></p>
+<p><strong>Individual share price: </strong><code>¥ 9280.1932</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -49,7 +50,7 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"vivid-red"} -->
-<p class="has-vivid-red-color has-text-color"><code>▼ today</code><br><code>—1633.33335 (—14.8153018%)</code></p>
+<p class="has-vivid-red-color has-text-color"><code>▼ today</code><br><code>-1611.1112 (-14.7926377%)</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -57,7 +58,7 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Company valuation</strong>:<br><code>¥ 648000</code><br><code>69</code> shares sold</p>
+<p><strong>Company valuation</strong>:<br><code>¥ 640333.331</code><br><code>69</code> shares sold</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -69,7 +70,11 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Notes:</strong><br>— You can only invest in-person at the moment, while I work on programming the system. DM @yEAh Games#2733 if you'd like to invest.<br>— Changes have been made to the system; new stocks are gradually rolling out. Expect to see one tomorrow.</p>
+<p><strong>Notes:</strong><br>— You can only invest in-person at the moment, while I work on programming the system. DM @yEAh Games#2733 if you'd like to invest.<br>— You may want to look at <a href="https://discord.com/channels/887052880782176266/887066216093605910">#annoucements</a> because there are some changes that may affect stock prices</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>— Today is the week close. See its report below.<br>— Dividends have been released. Check your accounts!<br>— Changes have been made to the system; new stocks are gradually rolling out. Expect to see one tomorrow.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -77,23 +82,23 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Raw data:</strong><br>Percent of messages: <code>100%</code><br>Number of messages: <code>30</code><br>Number of shares: <code>69</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
+<p><strong>Raw data:</strong><br>Percent of messages: <code>100%</code><br>Number of messages: <code>20</code><br>Number of shares: <code>69</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>Weekly graph (as of time of report):</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":306,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/week-of-04_04_2022-_-yg_ygse-_-yeah-games.png?w=600" alt="" class="wp-image-306" /></figure>
+<!-- wp:image {"id":211,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-35.png?w=540" alt="" class="wp-image-211" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p><strong>All-time graph (as of time of report)</strong>:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":307,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-53.png?w=600" alt="" class="wp-image-307" /></figure>
+<!-- wp:image {"id":212,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-36.png?w=600" alt="" class="wp-image-212" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

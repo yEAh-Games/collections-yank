@@ -9,6 +9,7 @@ tags: [bonuses, exclusive offer, membership, official, perks, special deals, yea
 c: Yank
 image: /archive/img/item/about-the-yembership/featured.png
 permalink: /docs/about/yembership/overview
+link: https://yankarchive.yeahgames.net/docs/about/yembership/overview
 redirect_from:
   - /item/about-the-yembership/
 ---

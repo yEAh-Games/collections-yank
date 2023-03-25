@@ -38,6 +38,8 @@ permalink: /item/:title/ # Default permalink for item URLS. This is free to be c
 paginate: 9 # Number of items to be shown per pagination page.
 paginate_path: /page:num/ # Pagination page path.
 
+author: false
+
 #social
 facebook:
 quora:

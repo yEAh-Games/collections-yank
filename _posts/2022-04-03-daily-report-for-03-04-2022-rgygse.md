@@ -7,6 +7,7 @@ comments: true
 categories: [Daily reports, Finance, investing, news, reports, rg, RG-YGSE, Stocks]
 image: /archive/img/reports/daily/rg/03-04-2022.png
 permalink: /stocks/reports/daily/yg/2022/04/03
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/yg/2022/04/03
 redirect_from:
   - /item/daily-report-for-03-04-2022-ygygse
 ---

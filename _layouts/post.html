@@ -13,7 +13,7 @@ layout: default
           Published on <time
             datetime="{{ page.date | date_to_xmlschema }}"
             itemprop="datePublished"
-            >{{ page.date | date: "%b %-d, %Y" }}</time>
+            >{{ page.date | date: "%b %-d, %Y" }}</time> {% if site.author == true %}by <a href="https://members.yeahgames.net/@{page.author}">@{page.author}</a> {% endif %}
         </p>
       </header>
       <div class="post-content" itemprop="articleBody">{{ content }}</div>

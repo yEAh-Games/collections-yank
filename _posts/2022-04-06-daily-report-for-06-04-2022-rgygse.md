@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Daily report for 02/04/2022 / RG-YGSE
-date: 2022-04-03 21:42
+title: Daily report for 06/04/2022 / RG-YGSE
+date: 2022-04-06 08:44
 author: yeahgamesdevs
 comments: true
 categories: [Daily reports, Finance, investing, news, reports, rg, RG-YGSE, Stocks]
-image: /archive/img/reports/daily/rg/02-04-2022.png
-permalink: /stocks/reports/daily/rg/2022/04/02
+image: /archive/img/reports/daily/rg/06-04-2022.png
+permalink: /stocks/reports/daily/rg/2022/04/06
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/rg/2022/04/06
 redirect_from:
-  - /item/daily-report-for-02-04-2022-rgygse
+  - /item/daily-report-for-06-04-2022-rgygse
 ---
 <!-- wp:paragraph -->
-<p>This is the daily report for <code>Random Guy TCG</code> <code>(RG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Saturday, the 2nd of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
+<p>This is the daily report for <code>Random Guy TCG</code> <code>(RG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Wednesday, the 6th of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -28,7 +29,7 @@ redirect_from:
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"vivid-cyan-blue","style":{"border":{"radius":"18px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/959266365246672937" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/961441047743954964" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -69,11 +70,15 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Notes:</strong><br>— BOTS:YGSE has been released. See its report below. <br>— You may want to look at annoucements because there are some changes that may affect stock prices. — Weekly close is only at 0 because the price <em>was</em> 0 on Sunday. <br>— Dividends have been released. Check your accounts!</p>
+<p><strong>Notes:</strong><br>— Weekly close is only at 0 because the price <em>was</em> 0 on Sunday. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>Other announcements:</strong><br>Stock fluctuations may occur throughout the next few days as we work on implementing a new exchange rate to help combat rising inflation. We will be experimenting with different techniques to make the formula fit the new prices.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><strong>Records broken (at time of report):</strong></strong><br><em>none</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -84,16 +89,16 @@ redirect_from:
 <p><strong>Weekly graph (as of time of report):</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":162,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-18.png?w=600" alt="" class="wp-image-162" /></figure>
+<!-- wp:image {"id":368,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-68.png?w=540" alt="" class="wp-image-368" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p><strong>All-time graph (as of time of report)</strong>:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":161,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/all-time-_-rg_ygse-_-yeah-games-1.png?w=600" alt="" class="wp-image-161" /></figure>
+<!-- wp:image {"id":369,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-69.png?w=600" alt="" class="wp-image-369" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

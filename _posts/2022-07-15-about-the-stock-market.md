@@ -7,6 +7,7 @@ comments: true
 categories: [About/FAQs, Docs, featured, Finance, finance-docs, Stocks, Yank, yoney]
 image: /archive/img/item/about-the-stock-market/featured.png
 permalink: /docs/about/stocks/overview
+link: https://yankarchive.yeahgames.net/docs/about/stocks/overview
 redirect_from:
   - /item/about-the-stock-market/
 ---

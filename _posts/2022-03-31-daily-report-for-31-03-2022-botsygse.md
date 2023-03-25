@@ -7,6 +7,7 @@ comments: true
 categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, news, reports, Stocks]
 image: /archive/img/reports/daily/bots/31-03-2022.png
 permalink: /stocks/reports/daily/bots/2022/03/31
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/bots/2022/03/31
 redirect_from:
   - /item/daily-report-for-31-03-2022-botsygse
 ---

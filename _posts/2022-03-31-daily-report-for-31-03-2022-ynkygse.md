@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Daily report for 06/04/2022 / RG-YGSE
-date: 2022-04-06 08:44
+title: Daily report for 31/03/2022 / YNK-YGSE
+date: 2022-04-03 19:52
 author: yeahgamesdevs
 comments: true
-categories: [Daily reports, Finance, investing, news, reports, rg, RG-YGSE, Stocks]
-image: /archive/img/reports/daily/rg/06-04-2022.png
-permalink: /stocks/reports/daily/rg/2022/04/06
+categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yank, ynk, YNK-YGSE, yollars, yoney]
+image: /archive/img/reports/daily/ynk/31-03-2022.png
+permalink: /stocks/reports/daily/ynk/2022/03/31
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/ynk/2022/03/31
 redirect_from:
-  - /item/daily-report-for-06-04-2022-rgygse
+  - /item/daily-report-for-31-03-2022-ynkygse
 ---
 <!-- wp:paragraph -->
-<p>This is the daily report for <code>Random Guy TCG</code> <code>(RG:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Wednesday, the 6th of April, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
+<p>This is the daily report for <code>The Yank of yEAh Games</code> <code>(YNK:YGSE)</code> on the yEAh Games Stock Exchange (YGSE), on <code>Thursday, the 31st of March, 2022</code>.<br><em>Full stock history for this company can be viewed here.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -28,7 +29,7 @@ redirect_from:
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"vivid-cyan-blue","style":{"border":{"radius":"18px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/961441047743954964" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-cyan-blue-color has-text-color" href="https://discord.com/channels/887052880782176266/956148633475092520/959266165732028466" style="border-radius:18px;"><strong>ORIGINAL DISCORD POST</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
@@ -48,16 +49,16 @@ redirect_from:
 <p><strong><strong>Price change since previous close:</strong></strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"textColor":"luminous-vivid-orange"} -->
-<p class="has-luminous-vivid-orange-color has-text-color"><code>► today</code><br><code>—0 (—0%)</code></p>
+<!-- wp:paragraph {"textColor":"vivid-red"} -->
+<p class="has-vivid-red-color has-text-color"><code>▼ today</code><br><code>—182.743183 (—182.743183%)</code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Shares sold (at time of report): </strong><br><code>3/3 (100%)</code><br><code>0</code> in possession of the Yank</p>
+<p><strong>Shares sold (at time of report): </strong><br><code>42/42 (100%)</code><br><code>0</code> in possession of the Yank</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Company valuation</strong>:<br><code>¥ 0</code><br><code>3</code> shares sold</p>
+<p><strong>Company valuation</strong>:<br><code>¥ 0</code><br><code>42</code> shares sold</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -65,11 +66,11 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Share possession (at time of report)</strong>:<br><code>Brehden Holdings, Inc.#4543</code> <code>(@953083567947280444)</code>: <code>3</code> holdings; <code>100%</code> of the company</p>
+<p><strong>Share possession (at time of report)</strong>:<br><code>Brehden Holdings, Inc.#4543</code> <code>(@953083567947280444)</code>: <code>42</code> holdings; <code>100%</code> of the company</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Notes:</strong><br>— Weekly close is only at 0 because the price <em>was</em> 0 on Sunday. </p>
+<p><strong>Notes:</strong><br>— Dividends have been released. Check your accounts! <br>— You may want to look at #annoucements because there are some changes that may affect stock prices.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -77,27 +78,23 @@ redirect_from:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong><strong>Records broken (at time of report):</strong></strong><br><em>none</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Raw data:</strong><br>Percent of messages: <code>0%</code><br>Number of messages: <code>0</code><br>Number of shares: <code>3</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
+<p><strong>Raw data:</strong><br>Percent of messages: <code>0%</code><br>Number of messages: <code>0</code><br>Number of shares: <code>42</code><br>$CAD to ¥YAY exchange rate: <code>$CAD 1.0 = ¥YAY 1250.0</code> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>Weekly graph (as of time of report):</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":368,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-68.png?w=540" alt="" class="wp-image-368" /></figure>
+<!-- wp:image {"id":146,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-11.png?w=540" alt="" class="wp-image-146" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p><strong>All-time graph (as of time of report)</strong>:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":369,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-69.png?w=600" alt="" class="wp-image-369" /></figure>
+<!-- wp:image {"id":147,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://yeaharchives.files.wordpress.com/2022/04/image-12.png?w=600" alt="" class="wp-image-147" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
