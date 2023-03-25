@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily report for 03/04/2022 / BOTS-YGSE
+title: Daily report for RG-YGSE﹕03/04/2022
 date: 2022-04-03 07:27
 author: yeahgamesdevs
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily report for 03/04/2022 / YNK-YGSE
+title: Daily report for YNK-YGSE﹕03/04/2022
 date: 2022-04-04 21:40
 author: yeahgamesdevs
 comments: true
