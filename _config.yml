@@ -1,5 +1,5 @@
-# 
-#
+# Welcome to your new library collection's config file!
+# Replace the details below with yours. If you're unsure, check out the docs at https://docs.yeahgames.net
 # This config file is meant for settings that affect the entire collection, values
 # which you are expected to set up once and rarely need to edit after that.
 # 
@@ -8,24 +8,24 @@
 # Site settings
 title: Yank • Library / yEAh Network
 email: admin@yeahgames
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   The official Yank of yEAh Games library archive collection. Learn about The Yank, how to get started, and view the latest updates on all stuff finance-related.
   
   
-#baseurl: "/cards" # the subpath of your site, e.g. /archive (don't uncomment if served directly from base protocol)
+#baseurl: "/" # the subpath of your site, e.g. /archive (don't uncomment if served directly from base protocol)
 url: "https://yankarchive.yeahgames.net" # the base hostname & protocol for your site
 
 #sidebar
 default-image: https://cdn.yeahgames.net/img/branding/logos/text/red.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
-built-by: The yEAh Games Corporation, LLC.
+built-by: The yEAh Games Corporation, LLC. # For robot crawling & indexing
 
 collection: # Details about your collection
    name: Yank Archive
    shortname: Yank # The common, short name of your collection (1 word only)
    link: '//yankarchive.yeahgames.net' # The link to your collection's website
 
-owner: # Details about your collection's owner(s)
+owner: # Details about your collection's owner(s)/management
    name: The Yank of yEAh Games
    link: '//yank.yeahgames.net'
 
@@ -34,11 +34,11 @@ copyright: # Copyright details
    link: 'https://yeahgames.net'
 
 # Build settings
-permalink: /item/:title/ # Default permalink for item URLS. This is free to be customized, but for your items to appear in the main library, the **filename** must still be the item's unique identifier (we recommend including it in the YAML frontmatter with the 'item:' line as well)
+permalink: /item/:title/ # Default permalink for item URLS. This is free to be customized, but for your items to appear in the main library, the **filename** must still be the item's unique identifier (we recommend including it in the YAML frontmatter with the 'item:' and the 'redirect_from: /item/itemID' line as well)
 paginate: 9 # Number of items to be shown per pagination page.
-paginate_path: /page:num/ # Pagination page path.
+paginate_path: /page:num/ # Pagination page path (by default it is /page1, /page2, etc.).
 
-author: false
+author: false # Set this to true if you'd like to enable displaying authors on items in this collection. By default, there is no set author displayed on item pages. This is disabled by default because most archived items don't actually require an author, but some (e.g., news), could benefit from the option.
 
 #social
 facebook:
