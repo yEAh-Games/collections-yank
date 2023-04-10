@@ -65,6 +65,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 exclude:
   - generate_redirects.rb
