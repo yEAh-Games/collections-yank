@@ -6,8 +6,8 @@ author: yeahgamesdevs
 comments: true
 categories: [Daily reports, Finance, investing, news, reports, Stocks, yg, YG-YGSE]
 image: /archive/img/reports/daily/yg/03-04-2022.png
-permalink: /stocks/reports/daily/yg/2022/04/03
-link: https://yankarchive.yeahgames.net/stocks/reports/daily/yg/2022/04/03
+permalink: /stocks/reports/daily/ygse/yg/2022/04/03
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/ygse/yg/2022/04/03
 redirect_from:
   - /item/daily-report-for-03-04-2022-ygygse
 ---

@@ -7,8 +7,8 @@ comments: true
 categories: [Collection﹕Finance, Stocks, Reports, YG-YGSE]
 tags: [investing, news, reports, yg]
 image: /archive/img/reports/daily/yg/31-03-2022.png
-permalink: /stocks/reports/daily/yg/2022/03/31
-link: https://yankarchive.yeahgames.net/stocks/reports/daily/yg/2022/03/31
+permalink: /stocks/reports/daily/ygse/yg/2022/03/31
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/ygse/yg/2022/03/31
 redirect_from:
   - /item/daily-report-for-31-03-2022-ygygse
 ---
