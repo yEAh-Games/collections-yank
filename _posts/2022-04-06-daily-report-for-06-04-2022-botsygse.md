@@ -6,8 +6,8 @@ author: yeahgamesdevs
 comments: true
 categories: [bots, BOTS-YGSE, Daily reports, discord-bots, Finance, investing, news, reports, Stocks]
 image: /archive/img/reports/daily/bots/06-04-2022.png
-permalink: /stocks/reports/daily/bots/2022/04/06
-link: https://yankarchive.yeahgames.net/stocks/reports/daily/bots/2022/04/06
+permalink: /stocks/reports/daily/ygse/bots/2022/04/06
+link: https://yankarchive.yeahgames.net/stocks/reports/daily/ygse/bots/2022/04/06
 redirect_from:
   - /item/daily-report-for-06-04-2022-botsygse
 ---

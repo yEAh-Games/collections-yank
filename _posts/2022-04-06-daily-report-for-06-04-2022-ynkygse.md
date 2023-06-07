@@ -6,8 +6,8 @@ author: yeahgamesdevs
 comments: true
 categories: [bank, Daily reports, Finance, investing, news, reports, Stocks, Yank, ynk, YNK-YGSE, yollars, yoney]
 image: /archive/img/reports/daily/ynk/06-04-2022.png
-permalink: /stocks/reports/daily/ynk/2022/04/06
-link: https://yankarchive.yeahgames.net/stocks/reports/daily/ynk/2022/04/06
+permalink: /stocks/reports/daily/ygse/ynk/2022/04/06
+link: https://yankarchive.yeahgames.net//stocks/reports/daily/ygse/ynk/2022/04/06
 redirect_from:
   - /item/daily-report-for-06-04-2022-ynkygse
 ---
