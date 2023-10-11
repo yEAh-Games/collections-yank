@@ -1,5 +1,5 @@
 # Welcome to your new library collection's config file!
-# Replace the details below with yours. If you're unsure, check out the docs at https://docs.yeahgames.net
+# Replace the details below with yours. If you're unsure, check out the docs at https://docs.ynwk.org
 # This config file is meant for settings that affect the entire collection, values
 # which you are expected to set up once and rarely need to edit after that.
 # 
@@ -7,31 +7,31 @@
 
 # Site settings
 title: The Finance Archive by the Yank of yEAh
-email: admin@yeahgames.net
+email: yank@ynwk.org
 description: >
   The official Yank of yEAh Games library archive collection. Learn about The Yank, how to get started, and view the latest updates on all stuff finance-related.
   
   
 #baseurl: "/" # the subpath of your site, e.g. /archive (don't uncomment if served directly from base protocol)
-url: "https://yankarchive.yeahgames.net" # the base hostname & protocol for your site
+url: "https://yankarchive.ynwk.org" # the base hostname & protocol for your site
 
-logo: https://cdn.yeahgames.net/img/yank/logos/red.png # Uncomment if you want to supply a logo for the navbar, as supposed to 'Collection: CollectionName'
-default-image: https://cdn.yeahgames.net/img/branding/logos/text/red.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+logo: https://cdn.ynwk.org/img/yank/logos/red.png # Uncomment if you want to supply a logo for the navbar, as supposed to 'Collection: CollectionName'
+default-image: https://cdn.ynwk.org/img/branding/logos/text/red.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 built-by: The yEAh Games Corporation, LLC. # For robot crawling & indexing
 
 collection: # Details about your collection
    name: Yank Archive
    shortname: Yank # The common, short name of your collection (1 word only)
-   link: '//yankarchive.yeahgames.net' # The link to your collection's website
+   link: '//yankarchive.ynwk.org' # The link to your collection's website
 
 owner: # Details about your collection's owner(s)/management
    name: The Yank of yEAh Games
-   link: '//yank.yeahgames.net'
+   link: '//yank.ynwk.org'
 
 copyright: # Copyright details
-   name: The yEAh Games Corporation, LLC.
-   link: 'https://yeahgames.net'
+   name: The yEAh Archives (yEAh Corp, LLC.)
+   link: 'https://www.ynwk.org'
 
 # Build settings
 permalink: /item/:title/ # Default permalink for item URLS. This is free to be customized, but for your items to appear in the main library, the **filename** must still be the item's unique identifier (we recommend including it in the YAML frontmatter with the 'item:' and the 'redirect_from: /item/itemID' line as well)
@@ -45,7 +45,7 @@ facebook:
 quora:
 twitter: http://twitter.com/yEAhGames_
 github: http://github.com/yEAh-Games
-email: admin@yeahgames.net
+email: admin@ynwk.org
 mastodon: https://mstdn.social/@yeah
 instagram: https://instagram.com/_yeahgames
 
